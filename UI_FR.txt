@@ -1,0 +1,7 @@
+UI_FR = {
+	UI_trait_driver = "Conducteur",
+	UI_trait_driverdesc = "À l'aise derrière un volant.<br>+1 Conduite",
+	UI_prof_cabdriver = "Chauffeur de Taxi",
+	UI_prof_cabdriverdesc = "Vous avez longtemps travaillé à bord d'un véhicule. <br>+2 Conduite<br>+2 Mécanique",
+	UI_DrivingGainSkill = "Compétence de Conduite",
+}
