@@ -1,0 +1,4 @@
+IGUI_FR = {
+	IGUI_perks_Driving = "Conduite",
+	IGUI_perks_Miscellaneous = "Divers",
+}
